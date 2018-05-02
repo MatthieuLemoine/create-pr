@@ -19,3 +19,8 @@ With a pull request template:
 ```
 create-pr --template=release.md
 ```
+
+With a target branch:
+```
+create-pr --target=master
+```
