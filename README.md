@@ -10,7 +10,12 @@ npm i -g create-pr
 
 ## Usage
 
-In a git repository :
+In a git repository:
 ```
 create-pr
+```
+
+With a pull request template:
+```
+create-pr --template=release.md
 ```
