@@ -1,6 +1,6 @@
 {
   "name": "create-pr",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Open github create pr page for the given branch",
   "main": "index.js",
   "repository": "git@github.com:MatthieuLemoine/create-pr.git",
